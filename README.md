@@ -3,7 +3,8 @@
 A contact page for Acme Support, built with **semantic and accessible HTML**, with no CSS or JavaScript. The project focuses on proper form structure: labels linked to their fields, native browser validation, and logical grouping with `fieldset` and `legend`.
 
 ## 📋 About the Project
-Project based on the [Contact Form](https://roadmap.sh/packs/html/contact-form) challenge from [roadmap.sh](https://roadmap.sh).
+Project based on the [Contact Form](https://roadmap.sh/projects/contact-form) challenge from [roadmap.sh](https://roadmap.sh).
+https://roadmap.sh/projects/contact-form
 
 The form lets users send a message to the support team. It includes:
 
